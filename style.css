@@ -12,7 +12,7 @@ html , body {
 body {
     min-height: 100vh;
     width: 100%;
-    background-color: cadetblue;
+    background-color: cornflowerblue;
     display: flex;
     align-items: start;
     justify-content: center;
@@ -99,6 +99,13 @@ body {
     margin: 10px;
 }
 
+.card:hover{
+    box-shadow: #C562AF 10px 0 10px;
+    transform: translateY(-10px) scale(1.02); 
+    transition: all 0.3s ease-in-out;              
+    border-radius: 12px;
+}
+
 .img{
     width: 100%;
     height: auto;
@@ -110,7 +117,7 @@ body {
     color: white;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
+    position:fixed;
     bottom: 0;
     left: 0;
     font-size: 1rem;
