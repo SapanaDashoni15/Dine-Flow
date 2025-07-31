@@ -46,7 +46,7 @@ const displayReceipes = (receipes)=> {
 
         <p>${receipe.title}</p> 
 
-        <button class="btn"> View Receipe</button>
+        <button class="btn"> Save to Favourite</button>
 
         `;
 
