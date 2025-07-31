@@ -104,6 +104,20 @@ body {
     height: auto;
 }
 
+.footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-size: 1rem;
+    font-family: serif;
+    z-index: 10;
+}
+
 @media(max-width:768) {
     .receipeResult{
     display: grid;
