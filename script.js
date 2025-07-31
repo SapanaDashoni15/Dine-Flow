@@ -1,3 +1,7 @@
+let year = new Date().getFullYear();
+document.getElementById("year").textContent = year;
+
+
 const container = document.querySelector(".container");
 const ingredients = document.querySelector(".ingredients");
 const btn = document.querySelector(".btn");
