@@ -30,7 +30,7 @@ Spoonacular API - Recipe data
 
 # How to Run Locally
 
-1. **Clone the repository
+Clone the repository
 
    git clone https://github.com/SapanaDashoni15/Dine-Flow.git
    cd dine-flow
