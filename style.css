@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+
 * {
     padding:0;
     margin:0;
@@ -32,8 +34,10 @@ body {
     color: wheat;
     margin-top: 20px;
     font-size: 3rem;
-    font-family: serif;
-    font-weight: 900;
+    font-family: "Frijole", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
 
 }
 
